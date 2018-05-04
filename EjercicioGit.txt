@@ -1,4 +1,8 @@
 mi proyecto  de github
 modificacion para una segunda version de mi proyecto
+<<<<<<< HEAD
 
 modificacion para tercera version de mi proyecto
+=======
+modificacion desde rama1 (version 1) 
+>>>>>>> rama1
